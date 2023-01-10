@@ -1,18 +1,11 @@
 CHAT APPLICATION
 
-Create a chat application to connect over the network and chat across computers.
+Creating a chat application to connect over the network and chat across computers.
 
-How will I complete this project?
-
-1. Organize the folders for your module (application), to house both your codebase and the tests.
-
-2. Write tests to cover all the methods to be written before development begins (TDD (Test Driven Development)).
-
-3. Make logical assumptions where necessary.
 
 Steps to evaluate.
 
-4. Code
+ Code
 
 a. At Minimum
 
@@ -24,7 +17,7 @@ ii. The following concepts/constructs should be used as much as possible
 
 · Use thread to handle multiple requests
 
-5. Test Coverage
+Test Coverage
 
 b. At Minimum
 
